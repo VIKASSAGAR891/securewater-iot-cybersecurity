@@ -42,7 +42,7 @@ The architecture demonstrates how sensor data moves from the physical monitoring
 
 ### Architecture Diagram
 
-!\[SecureWater IoT Architecture](figures/architecture.png)
+![SecureWater IoT Architecture](figures/architecture.png)
 
 \---
 
@@ -65,7 +65,7 @@ The ESP32 reads the sensor values, processes the measurements, determines the wa
 
 ### Hardware Diagram
 
-!\[SecureWater IoT Hardware](figures/hardware.png)
+![SecureWater IoT Hardware](figures/hardware.png)
 
 \---
 
@@ -84,7 +84,7 @@ The ESP32 sends the processed measurements to ThingSpeak through Wi-Fi. The plat
 
 ### ThingSpeak Dashboard
 
-!\[ThingSpeak Dashboard](figures/thingspeak.png)
+![ThingSpeak Dashboard](figures/thingspeak.png)
 
 \---
 
@@ -98,7 +98,8 @@ The dashboard also provides security monitoring capabilities, including security
 
 ### Dashboard
 
-!\[SecureWater IoT Dashboard](figures/dashboard.png)
+![SecureWater IoT Dashboard](figures/dashboard.png)
+![SecureWater IoT Dashboard](figures/dashboard1.png)
 
 \---
 
