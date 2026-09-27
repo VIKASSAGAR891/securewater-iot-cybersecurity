@@ -2,6 +2,8 @@
 
 ## Cybersecurity for Smart Water Infrastructure
 
+![Project Demo](project_demo.mp4)
+
 ### Introduction
 
 **SecureWater IoT** is an IoT-based smart water-quality monitoring and cybersecurity project. The project combines an ESP32-based monitoring prototype, ThingSpeak cloud communication, a FastAPI backend, and a web-based dashboard to demonstrate secure remote monitoring of an IoT water system.
