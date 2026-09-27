@@ -1,8 +1,16 @@
+<div align="center">
+
 # SecureWater IoT
 
-## Cybersecurity for Smart Water Infrastructure
+### Cybersecurity for Smart Water Infrastructure
 
-[▶️ Watch Project Demo](project_demo.mp4)
+<img src="./figures/project_demo.gif" width="900" alt="SecureWater IoT Project Demo">
+
+<br><br>
+
+<a href="./project_demo.mp4">▶️ Watch Full Project Demo</a>
+
+</div>
 
 ### Introduction
 
