@@ -2,7 +2,7 @@
 
 ## Cybersecurity for Smart Water Infrastructure
 
-![Project Demo](project_demo.mp4)
+[▶️ Watch Project Demo](project_demo.mp4)
 
 ### Introduction
 
